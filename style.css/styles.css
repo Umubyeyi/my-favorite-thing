@@ -1,21 +1,21 @@
 
 body{
     background-color:lime
-}
-    h1{
+  }
+h1{
     color:red;
     font-size:5px;
     text-align:center;
     font-family:sans-serif;
     }
-    h2{
-        font-size:3px;
-        font-size:5px;
+h2{
+    font-size:3px;
+    font-size:5px;
     text-align:center;
     
     }
-    p{
-        font-style:italic;
-    }
+p{
+    font-style:italic;
+ }
 
   
